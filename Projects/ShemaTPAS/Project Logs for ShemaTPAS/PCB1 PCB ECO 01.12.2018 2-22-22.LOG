@@ -1,0 +1,11 @@
+Change Component Comment : Designator=Header 4 Old Comment=P2 New Comment=Header 4
+Change Component Comment : Designator=Header 20.2 Old Comment=P4 New Comment=Header 20.2
+Change Component Designator: OldDesignator=Header 3X2 NewDesignator=P1
+Change Component Designator: OldDesignator=Header 4 NewDesignator=P2
+Change Component Designator: OldDesignator=Header 20.2 NewDesignator=P4
+Change Component Designator: OldDesignator=Regulator NewDesignator=U1
+Change Component Designator: OldDesignator=stm32 NewDesignator=U2
+Change Component Designator: OldDesignator=SW NewDesignator=SW1
+Change Component Designator: OldDesignator=USB micro NewDesignator=U3
+Change Net Name : Old Net Name=NetHeader 3X2_3 New Net Name=NetP1_3
+Change Net Name : Old Net Name=NetHeader 3X2_4 New Net Name=NetP1_4

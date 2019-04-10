@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C2 Old Footprint=K10-17 New Footprint=K73-17
+Change Component Footprint: Designator=C8 Old Footprint=K50-35(5X11) New Footprint=K50-35(8X11.5)
+Change Component Footprint: Designator=VT5 Old Footprint=KT315 New Footprint=KT818
+Change Component Footprint: Designator=VT? Old Footprint=KT315 New Footprint=KT818
+Change Component Designator: OldDesignator=VT? NewDesignator=VT6

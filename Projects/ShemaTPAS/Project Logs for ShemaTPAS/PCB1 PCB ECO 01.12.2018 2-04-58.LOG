@@ -1,0 +1,5 @@
+Added Component: Designator=SW(Switch)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=RESET Pin=SW-1
+Added Pin To Net: NetName=GND Pin=SW-2
+Added Member To Class: ClassName=Sheet1 Member=Component SW Switch

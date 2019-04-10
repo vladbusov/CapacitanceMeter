@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=XT Old Footprint=CON: PBS-2 New Footprint=CON: 6PCV-02-006
+Change Component Footprint: Designator=XS Old Footprint=CON: PBS-2 New Footprint=CON: X977B02
+Change Component Designator: OldDesignator=XS NewDesignator=XS2
+Change Component Designator: OldDesignator=XS? NewDesignator=XP
+Change Component Designator: OldDesignator=XT NewDesignator=XS1
+Added Room: Name=Sheet1

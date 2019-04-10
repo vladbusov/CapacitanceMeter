@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=VT4 Old Footprint=KT818 New Footprint=KT315
+Added Member To Class: ClassName=Sheet1 Member=Component VT4 PNP-transistor
+Added Room: Name=Sheet1

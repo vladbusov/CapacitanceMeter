@@ -1,0 +1,9 @@
+Change Physical Footprint: Designator=P1 Old Footprint=Header 3X2 New Footprint=Header 3X2
+Change Physical Footprint: Designator=P2 Old Footprint=header 4 New Footprint=header 4
+Change Physical Footprint: Designator=P3 Old Footprint=Header 20 New Footprint=Header 20
+Change Physical Footprint: Designator=P4 Old Footprint=Header 20 New Footprint=Header 20
+Change Physical Footprint: Designator=SW1 Old Footprint=Switch New Footprint=Switch
+Change Physical Footprint: Designator=U1 Old Footprint=MIC5205-3.3YM5-TR New Footprint=MIC5205-3.3YM5-TR
+Change Physical Footprint: Designator=U2 Old Footprint=STM32F103C8T6 New Footprint=STM32F103C8T6
+Change Physical Footprint: Designator=U3 Old Footprint=USB MICRO New Footprint=USB MICRO
+Change Physical Footprint: Designator=Y2 Old Footprint=HC49 New Footprint=HC49
